@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm Redwan Sharafat Kabir</h1>  
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif?raw=true" width="400" height="250" />
+<img align="right" width="250" height="250" alt="GIF" src="https://user-images.githubusercontent.com/37416018/175465859-c1142ecf-72d0-4df7-9c8e-fb37f3b59e68.gif?raw=true" width="400" height="250" />
 
 - 🔭 I’m currently working at CloudCoder Ltd. as a Mobile application Developer
 - 🌱 I’m learning Flutter
@@ -19,12 +19,12 @@
 - 💬 Ask me about Native Android or Any Tech Related
 - 📫 How to reach me: [Portfolio - @Redwan Sharafat Kabir](https://redwansharafatkabir.github.io/Portfolio/) , [Linkedin - @Redwan Sharafat Kabir](https://www.linkedin.com/in/redwan-sharafat/)
 
-
 <br>
 <br>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RedwanSharafatKabir&theme=radical&show_icons=true&locale=en&layout=compact" width="400" height="200" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=RedwanSharafatKabir&theme=radical&show_icons=true&locale=en" width="400" height="200"/>
 <p></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RedwanSharafatKabir&theme=radical&show_icons=true&locale=en&layout=compact" width="350" height="200" /></p>  
   
+<p>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=RedwanSharafatKabir&theme=radical&show_icons=true&locale=en" width="400" height="200"/>
+<p></p>
+
