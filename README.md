@@ -17,7 +17,7 @@
   - Framewrok : Android, Flutter.
 - 👯 I’m looking to collaborate opensource
 - 💬 Ask me about Native Android or Any Tech Related
-- 📫 How to reach me: [Portfolio - @Redwan Sharafat Kabir](https://redwansharafatkabir.github.io/Portfolio/) , [Linkedin - @Redwan Sharafat Kabir](https://www.linkedin.com/in/redwan-sharafat/)
+- 📫 Keep me in touch: [Portfolio - @Redwan Sharafat Kabir](https://redwansharafatkabir.github.io/Portfolio/) , [Linkedin - @Redwan Sharafat Kabir](https://www.linkedin.com/in/redwan-sharafat/)
 
 <br>
 <br>
