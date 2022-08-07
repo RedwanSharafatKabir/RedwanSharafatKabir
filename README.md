@@ -1,8 +1,4 @@
 ![GitHub followers](https://img.shields.io/github/followers/RedwanSharafatKabir?logo=GitHub&style=flat-square)
-![Visits Badge](https://badges.pufler.dev/visits/RedwanSharafatKabir/RedwanSharafatKabir?style=flat-square)
-![Years Badge](https://badges.pufler.dev/years/RedwanSharafatKabir?style=flat-square)
-![Repos Badge](https://badges.pufler.dev/repos/RedwanSharafatKabir?style=flat-square)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/RedwanSharafatKabir)
 [![Redwan StackOverflow](https://stackoverflow-badge.vercel.app/?userID=9805630)](https://stackoverflow.com/users/9805630/redwan)
 
 
