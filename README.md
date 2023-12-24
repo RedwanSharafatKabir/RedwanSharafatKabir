@@ -1,4 +1,5 @@
 ![GitHub followers](https://img.shields.io/github/followers/RedwanSharafatKabir?logo=GitHub&style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/RedwanSharafatKabir?logo=GitHub&style=flat-square)
 [![Redwan StackOverflow](https://stackoverflow-badge.vercel.app/?userID=9805630)](https://stackoverflow.com/users/9805630/redwan)
 
 
