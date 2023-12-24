@@ -19,6 +19,7 @@
 <br>
 
 <p></p>
-<p>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=RedwanSharafatKabir&theme=radical&show_icons=true&locale=en" width="400" height="200"/>
-<p></p>
+<p>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedwanSharafatKabir&theme=radical&show_icons=true&locale=en"/>
+<img  align="center" src="https://github-readme-stats.vercel.app/api?username=RedwanSharafatKabir&theme=radical&show_icons=true&locale=en" width="400" height="200"/>
 
+<p></p>
