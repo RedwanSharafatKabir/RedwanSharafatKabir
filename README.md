@@ -8,9 +8,9 @@
 <img align="right" width="250" height="250" alt="GIF" src="https://user-images.githubusercontent.com/37416018/175465859-c1142ecf-72d0-4df7-9c8e-fb37f3b59e68.gif?raw=true" width="400" height="250" />
 
 - 🔭 I’m currently working at CloudCoder Ltd. as a Mobile Application Developer.
-- 🌱 I’m learning Mahine Learning.
+- 🌱 I’m learning Data Science & Machine Learning.
 - 🔭 I’m proficient in working with:
-  - Programming Languages : Java, Kotlin, Dart.
+  - Programming Languages : Java, Kotlin, Python, Dart.
   - Framewrok : Native Android, Flutter.
 - 👯 I’m looking to collaborate opensource.
 - 💬 Ask me about Native Android, Cross Mobile Application Platform or Any Tech Related.
